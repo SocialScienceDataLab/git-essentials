@@ -1,6 +1,7 @@
 # Why to use Git and Git essentials workshop: An argument for adopting Git + GitHub/GitLab for academic research followed by a getting started workshop
 
 📍 Online-only event
+
 📆 April 14, 2021, 13:45-15:15
 
 ## Abstract
