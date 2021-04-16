@@ -14,5 +14,6 @@ The workshop will have two parts: In a ca. 20-30 minute input talk, I will motiv
 
 ## Material
 
+- [📺 Recording](https://m.youtube.com/watch?v=JS9cwCcf7DY)
 - [💻 Slides](https://gost.netlify.app/en/2021-04-14_mzes_method_bites/#1)
 - [🛠 Git set up guide](https://github.com/friep/git-newbie-playground)
