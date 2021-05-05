@@ -1,13 +1,19 @@
-# How to Read Tea Leaves: A hands-on Guide for Semantic Validation of Text Models using Oolong
+# Why to use Git and Git essentials workshop: An argument for adopting Git + GitHub/GitLab for academic research followed by a getting started workshop
 
 📍 Online-only event
 
-📆 May 05, 2021, 13:45-15:15
+📆 April 14, 2021, 13:45-15:15
 
 ## Abstract
-The growing supply of unstructured text is a great chance, but also a challenge for social science. In many instances we want to classify, scale or compare text for which no prelabeled data is available. In this case, unsupervised learning techniques such as topic models or the use of dictionaries promise the automated analysis of text with little or no human input. But these models are notoriously difficult to evaluate. While the validation of statistical properties of topics models is well established, the substantive meaning of categories uncovered is often less clear and their interpretation reliant on "intuition" or "eyeballing". Computer science scholars rather call it "reading tea leaves". The story for dictionary-based methods is not better. Researchers usually assume these dictionaries have built-in validity and use them directly in their research. Oolong provides a set of tools to objectively judge substantive interpretability to applied users in disciplines such as political science and communication science. It allows standardized content based testing of topic models as well as dictionary-based methods with clear numeric indicators of semantic validity. This session is a hand-on guide on how to create and administer your own tests.
+The workshop will have two parts: In a ca. 20-30 minute input talk, I will motivate the usage of Git and GitHub/GitLab in the context of social science research by presenting relevant features and introducing potentially relevant workflows from software development. In the second, more interactive part (ca. 1 hour), we’ll go through the typical pull-commit-push-pull request cycle which will enable participants to work with Git and GitHub, mainly using the RStudio Git interface. Prerequisites for practical workshop (installation and setup instructions will be provided 1-2 weeks before the workshop): Git installed, GitHub account, a private repository called git-tryout (initialized with a README), RStudio installed.
 
 
 ## Presenter
 
-[Marius Sältzer](https://twitter.com/marius_saeltzer) is a doctoral researcher in political science at the University of Mannheim. His research revolves around the dimensions of political conflict, e.g., the questions what issues matter for the public, political parties and their constituencies. To answer these questions, he studies political communication of legislators, parties and other key political actors, with a special emphasis on political elites' use of social media.
+[Frie Preu](https://frie.codes) is a data scientist, a low-budget data engineer and COO of CorrelAid, a data4good network of over 1500 data scientists. Before, she studied political science and data science at the University of Konstanz and worked in IT consulting.
+
+## Material
+
+- [📺 Recording](https://m.youtube.com/watch?v=JS9cwCcf7DY)
+- [💻 Slides](https://gost.netlify.app/en/2021-04-14_mzes_method_bites/#1)
+- [🛠 Git set up guide](https://github.com/friep/git-newbie-playground)
